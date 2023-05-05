@@ -1,80 +1,163 @@
-El gato negro corre en el jardín,DET,NN,ADJ,V,PREP,DET,NN
-La mesa grande está en la cocina,DET,NN,ADJ,V,PREP,DET,NN
-El perro marrón ladra en el parque,DET,NN,ADJ,V,PREP,DET,NN
-La silla cómoda está junto a la ventana,DET,NN,ADJ,V,PREP,DET,NN
-El libro interesante está en la biblioteca,DET,NN,ADJ,V,PREP,DET,NN
-La niña pequeña juega en el patio,DET,NN,ADJ,V,PREP,DET,NN
-El árbol alto se encuentra en el jardín,DET,NN,ADJ,V,PREP,DET,NN
-La pelota roja rueda en el suelo,DET,NN,ADJ,V,PREP,DET,NN
-El hombre mayor camina por la calle,DET,NN,ADJ,V,PREP,DET,NN
-La mujer guapa está en el parque,DET,NN,ADJ,V,PREP,DET,NN
-El niño feliz juega en la playa,DET,NN,ADJ,V,PREP,DET,NN
-La puerta verde está abierta,DET,NN,ADJ,V,ADJ
-El coche rápido pasa por la carretera,DET,NN,ADJ,V,PREP,DET,NN
-La casa antigua está en ruinas,DET,NN,ADJ,V,PREP,DET,NN
-El sol brilla en el cielo,DET,NN,V,PREP,DET,NN
-La luna llena ilumina la noche,DET,NN,ADJ,V,DET,NN
-El río caudaloso fluye hacia el mar,DET,NN,ADJ,V,PREP,DET,NN
-La montaña alta está cubierta de nieve,DET,NN,ADJ,V,PREP,NN
-El ave libre vuela por el cielo,DET,NN,ADJ,V,PREP,DET,NN
-La flor hermosa está en el jardín,DET,NN,ADJ,V,PREP,DET,NN
-El elefante grande camina lentamente,DET,NN,ADJ,V,ADV
-La abeja pequeña zumba alrededor de las flores,DET,NN,ADJ,V,PREP,DET,NN
-El ruido fuerte asusta a los pájaros,DET,NN,ADJ,V,PREP,DET,NN
-La música suave se escucha en la habitación,DET,NN,ADJ,V,PREP,DET,NN
-El río tranquilo fluye sin prisa,DET,NN,ADJ,V,ADV
-La estrella brillante brilla en el cielo oscuro,DET,NN,ADJ,V,PREP,DET,NN
-El viento fresco sopla entre los árboles,DET,NN,ADJ,V,PREP,DET,NN
-La luz brillante ilumina la habitación,DET,NN,ADJ,V,PREP,DET,NN
-El niño travieso juega en el parque,DET,NN,ADJ,V,PREP,DET,NN
-La niña curiosa explora el bosque,DET,NN,ADJ,V,DET,NN
-El agua clara fluye por el río,DET,NN,ADJ,V,PREP,DET,NN
-La sombra oscura se proyecta en la pared,DET,NN,ADJ,V,PREP,DET,NN
-El sol radiante brilla en el horizonte,DET,NN,ADJ,V,PREP,DET,NN
-La brisa suave acaricia mi rostro,DET,NN,ADJ,V,DET,NN
-El pájaro colorido canta en la rama,DET,NN,ADJ,V,PREP,DET,NN
-La montaña imponente se alza en el paisaje,DET,NN,ADJ,V,PREP,DET,NN
-El ruido molesto interrumpe mi concentración,DET,NN,ADJ,V,DET,NN
-La ciudad bulliciosa está llena de vida,DET,NN,ADJ,V,PREP,NN
-El perfume dulce inunda la habitación,DET,NN,ADJ,V,PREP,DET,NN
-La carretera larga se extiende hasta el horizonte,DET,NN,ADJ,V,PREP,DET,NN
-El edificio moderno destaca en el centro de la ciudad,DET,NN,ADJ,V,PREP,DET,NN
-La pintura abstracta adorna la pared blanca,DET,NN,ADJ,V,PREP,DET,NN
-El reloj antiguo marca la hora exacta,DET,NN,ADJ,V,DET,NN
-La lámpara encendida ilumina la habitación,DET,NN,V,PREP,DET,NN
-El vaso vacío está sobre la mesa,DET,NN,ADJ,V,PREP,DET,NN
-La toalla mojada cuelga en el baño,DET,NN,ADJ,V,PREP,DET,NN
-El maestro sabio enseña a sus alumnos,DET,NN,ADJ,V,PREP,DET,NN
-La película emocionante atrapa mi atención,DET,NN,ADJ,V,DET,NN
-El silencio absoluto reina en la noche,DET,NN,ADJ,V,PREP,DET,NN
-La tormenta violenta se acerca rápidamente,DET,NN,ADJ,V,PREP,ADV
-El libro interesante atrapa mi imaginación,DET,NN,ADJ,V,DET,NN
-La lluvia fina cae sobre el suelo,DET,NN,ADJ,V,PREP,DET,NN
-El calor intenso agobia a la gente,DET,NN,ADJ,V,PREP,DET,NN
-La sonrisa sincera ilumina su rostro,DET,NN,ADJ,V,DET,NN
-El aire fresco revitaliza mis pulmones,DET,NN,ADJ,V,DET,NN
-La comida deliciosa despierta mis sentidos,DET,NN,ADJ,V,DET,NN
-El niño inquieto corre por el parque,DET,NN,ADJ,V,PREP,DET,NN
-La niña creativa dibuja en su cuaderno,DET,NN,ADJ,V,PREP,DET,NN
-El ruido estruendoso asusta a los animales,DET,NN,ADJ,V,PREP,DET,NN
-La música alegre anima la fiesta,DET,NN,ADJ,V,PREP,DET,NN
-El sol radiante calienta la arena,DET,NN,ADJ,V,PREP,DET,NN
-La Luna brillante ilumina el camino,DET,NN,ADJ,V,DET,NN
-El viento suave acaricia las hojas,DET,NN,ADJ,V,DET,NN
-La sombra alargada se proyecta en el suelo,DET,NN,ADJ,V,PREP,DET,NN
-El agua cristalina refresca mi sed,DET,NN,ADJ,V,DET,NN
-La montaña majestuosa se eleva en el horizonte,DET,NN,ADJ,V,PREP,DET,NN
-El ruido constante interrumpe mi concentración,DET,NN,ADJ,V,DET,NN
-La ciudad bulliciosa nunca duerme,DET,NN,ADJ,V,ADV
-El perfume fragante impregna el aire,DET,NN,ADJ,V,DET,NN
-La carretera sinuosa atraviesa el bosque,DET,NN,ADJ,V,PREP,DET,NN
-El edificio imponente domina el paisaje urbano,DET,NN,ADJ,V,DET,NN
-La pintura expresiva evoca emociones,DET,NN,ADJ,V,DET,NN
-El reloj antiguo marca el paso del tiempo,DET,NN,ADJ,V,PREP,DET,NN
-La lámpara apagada oscurece la habitación,DET,NN,V,PREP,DET,NN
-El vaso lleno está sobre la mesa,DET,NN,ADJ,V,PREP,DET,NN
-La toalla suave seca mi cuerpo,DET,NN,ADJ,V,DET,NN
-El maestro paciente guía a sus estudiantes,DET,NN,ADJ,V,PREP,DET,NN
-La película emocionante provoca suspenso,DET,NN,ADJ,V,DET,NN
-El silencio absoluto envuelve el lugar,DET,NN,ADJ,V,DET,NN
-La tormenta violenta causa estragos,DET,NN,ADJ,V,DET,NN
+El gato negro corre en el jardín,DET,NN,ADJ,V,PREP,DET,NN
+La mesa grande está en la cocina,DET,NN,ADJ,V,PREP,DET,NN
+El perro marrón ladra en el parque,DET,NN,ADJ,V,PREP,DET,NN
+La silla cómoda está junto a la ventana,DET,NN,ADJ,V,PREP,DET,NN
+El libro interesante está en la biblioteca,DET,NN,ADJ,V,PREP,DET,NN
+La niña pequeña juega en el patio,DET,NN,ADJ,V,PREP,DET,NN
+El árbol alto se encuentra en el jardín,DET,NN,ADJ,V,PREP,DET,NN
+La pelota roja rueda en el suelo,DET,NN,ADJ,V,PREP,DET,NN
+El hombre mayor camina por la calle,DET,NN,ADJ,V,PREP,DET,NN
+La mujer guapa está en el parque,DET,NN,ADJ,V,PREP,DET,NN
+El niño feliz juega en la playa,DET,NN,ADJ,V,PREP,DET,NN
+La puerta verde está abierta,DET,NN,ADJ,V,ADJ
+El coche rápido pasa por la carretera,DET,NN,ADJ,V,PREP,DET,NN
+La casa antigua está en ruinas,DET,NN,ADJ,V,PREP,DET,NN
+El sol brilla en el cielo,DET,NN,V,PREP,DET,NN
+La luna llena ilumina la noche,DET,NN,ADJ,V,DET,NN
+El río caudaloso fluye hacia el mar,DET,NN,ADJ,V,PREP,DET,NN
+La montaña alta está cubierta de nieve,DET,NN,ADJ,V,PREP,NN
+El ave libre vuela por el cielo,DET,NN,ADJ,V,PREP,DET,NN
+La flor hermosa está en el jardín,DET,NN,ADJ,V,PREP,DET,NN
+El elefante grande camina lentamente,DET,NN,ADJ,V,ADV
+La abeja pequeña zumba alrededor de las flores,DET,NN,ADJ,V,PREP,DET,NN
+El ruido fuerte asusta a los pájaros,DET,NN,ADJ,V,PREP,DET,NN
+La música suave se escucha en la habitación,DET,NN,ADJ,V,PREP,DET,NN
+El río tranquilo fluye sin prisa,DET,NN,ADJ,V,ADV
+La estrella brillante brilla en el cielo oscuro,DET,NN,ADJ,V,PREP,DET,NN
+El viento fresco sopla entre los árboles,DET,NN,ADJ,V,PREP,DET,NN
+La luz brillante ilumina la habitación,DET,NN,ADJ,V,PREP,DET,NN
+El niño travieso juega en el parque,DET,NN,ADJ,V,PREP,DET,NN
+La niña curiosa explora el bosque,DET,NN,ADJ,V,DET,NN
+El agua clara fluye por el río,DET,NN,ADJ,V,PREP,DET,NN
+La sombra oscura se proyecta en la pared,DET,NN,ADJ,V,PREP,DET,NN
+El sol radiante brilla en el horizonte,DET,NN,ADJ,V,PREP,DET,NN
+La brisa suave acaricia mi rostro,DET,NN,ADJ,V,DET,NN
+El pájaro colorido canta en la rama,DET,NN,ADJ,V,PREP,DET,NN
+La montaña imponente se alza en el paisaje,DET,NN,ADJ,V,PREP,DET,NN
+El ruido molesto interrumpe mi concentración,DET,NN,ADJ,V,DET,NN
+La ciudad bulliciosa está llena de vida,DET,NN,ADJ,V,PREP,NN
+El perfume dulce inunda la habitación,DET,NN,ADJ,V,PREP,DET,NN
+La carretera larga se extiende hasta el horizonte,DET,NN,ADJ,V,PREP,DET,NN
+El edificio moderno destaca en el centro de la ciudad,DET,NN,ADJ,V,PREP,DET,NN
+La pintura abstracta adorna la pared blanca,DET,NN,ADJ,V,PREP,DET,NN
+El reloj antiguo marca la hora exacta,DET,NN,ADJ,V,DET,NN
+La lámpara encendida ilumina la habitación,DET,NN,V,PREP,DET,NN
+El vaso vacío está sobre la mesa,DET,NN,ADJ,V,PREP,DET,NN
+La toalla mojada cuelga en el baño,DET,NN,ADJ,V,PREP,DET,NN
+El maestro sabio enseña a sus alumnos,DET,NN,ADJ,V,PREP,DET,NN
+La película emocionante atrapa mi atención,DET,NN,ADJ,V,DET,NN
+El silencio absoluto reina en la noche,DET,NN,ADJ,V,PREP,DET,NN
+La tormenta violenta se acerca rápidamente,DET,NN,ADJ,V,PREP,ADV
+El libro interesante atrapa mi imaginación,DET,NN,ADJ,V,DET,NN
+La lluvia fina cae sobre el suelo,DET,NN,ADJ,V,PREP,DET,NN
+El calor intenso agobia a la gente,DET,NN,ADJ,V,PREP,DET,NN
+La sonrisa sincera ilumina su rostro,DET,NN,ADJ,V,DET,NN
+El aire fresco revitaliza mis pulmones,DET,NN,ADJ,V,DET,NN
+La comida deliciosa despierta mis sentidos,DET,NN,ADJ,V,DET,NN
+El niño inquieto corre por el parque,DET,NN,ADJ,V,PREP,DET,NN
+La niña creativa dibuja en su cuaderno,DET,NN,ADJ,V,PREP,DET,NN
+El ruido estruendoso asusta a los animales,DET,NN,ADJ,V,PREP,DET,NN
+La música alegre anima la fiesta,DET,NN,ADJ,V,PREP,DET,NN
+El sol radiante calienta la arena,DET,NN,ADJ,V,PREP,DET,NN
+La Luna brillante ilumina el camino,DET,NN,ADJ,V,DET,NN
+El viento suave acaricia las hojas,DET,NN,ADJ,V,DET,NN
+La sombra alargada se proyecta en el suelo,DET,NN,ADJ,V,PREP,DET,NN
+El agua cristalina refresca mi sed,DET,NN,ADJ,V,DET,NN
+La montaña majestuosa se eleva en el horizonte,DET,NN,ADJ,V,PREP,DET,NN
+El ruido constante interrumpe mi concentración,DET,NN,ADJ,V,DET,NN
+La ciudad bulliciosa nunca duerme,DET,NN,ADJ,V,ADV
+El perfume fragante impregna el aire,DET,NN,ADJ,V,DET,NN
+La carretera sinuosa atraviesa el bosque,DET,NN,ADJ,V,PREP,DET,NN
+El edificio imponente domina el paisaje urbano,DET,NN,ADJ,V,DET,NN
+La pintura expresiva evoca emociones,DET,NN,ADJ,V,DET,NN
+El reloj antiguo marca el paso del tiempo,DET,NN,ADJ,V,PREP,DET,NN
+La lámpara apagada oscurece la habitación,DET,NN,V,PREP,DET,NN
+El vaso lleno está sobre la mesa,DET,NN,ADJ,V,PREP,DET,NN
+La toalla suave seca mi cuerpo,DET,NN,ADJ,V,DET,NN
+El maestro paciente guía a sus estudiantes,DET,NN,ADJ,V,PREP,DET,NN
+La película emocionante provoca suspenso,DET,NN,ADJ,V,DET,NN
+El silencio absoluto envuelve el lugar,DET,NN,ADJ,V,DET,NN
+La tormenta violenta causa estragos,DET,NN,ADJ,V,DET,NN
+El perro corre rápido en el parque,DET,NN,V,ADV,PREP,DET,NN
+La casa grande está en la colina,DET,NN,ADJ,V,PREP,DET,NN
+El gato negro duerme en el sofá,DET,NN,ADJ,V,PREP,DET,NN
+La silla cómoda está al lado de la puerta,DET,NN,ADJ,V,PREP,DET,NN
+El libro interesante está en la mesa,DET,NN,ADJ,V,PREP,DET,NN
+La niña feliz juega en el parque,DET,NN,ADJ,V,PREP,DET,NN
+El árbol alto se encuentra en el jardín,DET,NN,ADJ,V,PREP,DET,NN
+La pelota roja rueda en el pasto,DET,NN,ADJ,V,PREP,DET,NN
+El perro marrón ladra fuerte en el parque,DET,NN,ADJ,V,ADV,PREP,DET,NN
+La casa blanca está en la colina,DET,NN,ADJ,V,PREP,DET,NN
+El gato blanco duerme en la cama,DET,NN,ADJ,V,PREP,DET,NN
+La silla dura está al lado de la ventana,DET,NN,ADJ,V,PREP,DET,NN
+El libro aburrido está en el estante,DET,NN,ADJ,V,PREP,DET,NN
+La niña pequeña juega en el jardín,DET,NN,ADJ,V,PREP,DET,NN
+El árbol viejo se encuentra en el bosque,DET,NN,ADJ,V,PREP,DET,NN
+La pelota amarilla rueda en el suelo,DET,NN,ADJ,V,PREP,DET,NN
+El perro blanco corre en el parque,DET,NN,ADJ,V,PREP,DET,NN
+La casa moderna está en la colina,DET,NN,ADJ,V,PREP,DET,NN
+El gato naranja duerme en la silla,DET,NN,ADJ,V,PREP,DET,NN
+La silla suave está al lado del sofá,DET,NN,ADJ,V,PREP,DET,NN
+El libro viejo está en la biblioteca,DET,NN,ADJ,V,PREP,DET,NN
+La niña pequeña juega en el parque infantil,DET,NN,ADJ,V,PREP,DET,NN
+El árbol verde se encuentra en el parque,DET,NN,ADJ,V,PREP,DET,NN
+La pelota azul rueda en el parque,DET,NN,ADJ,V,PREP,DET,NN
+El perro marrón corre en el parque,DET,NN,ADJ,V,PREP,DET,NN
+La casa antigua está en la colina,DET,NN,ADJ,V,PREP,DET,NN
+El gato gris duerme en el techo,DET,NN,ADJ,V,PREP,DET,NN
+La casa blanca está en la colina,DET,NN,ADJ,V,PREP,DET,NN
+El carro rápido corre por la carretera,DET,NN,ADJ,V,PREP,DET,NN
+El niño feliz juega en el parque,DET,NN,ADJ,V,PREP,DET,NN
+La nube gris cubre el cielo,DET,NN,ADJ,V,PREP,DET,NN
+La guitarra acústica suena muy bien,DET,NN,ADJ,V,ADV,ADJ
+El bebé hermoso duerme en la cuna,DET,NN,ADJ,V,PREP,DET,NN
+El reloj antiguo está en la mesa,DET,NN,ADJ,V,PREP,DET,NN
+La bicicleta nueva es muy rápida,DET,NN,ADJ,V,ADV,ADJ
+El sol brillante ilumina el día,DET,NN,ADJ,V,DET,NN
+La luna llena se ve muy bonita,DET,NN,ADJ,V,ADV,ADJ
+El abuelo sabio cuenta historias,DET,NN,ADJ,V,NN
+La taza vacía está en la mesa,DET,NN,ADJ,V,PREP,DET,NN
+El zapato cómodo es ideal para caminar,DET,NN,ADJ,V,ADJ,PREP,NN
+La computadora nueva es muy rápida,DET,NN,ADJ,V,ADV,ADJ
+El edificio alto se encuentra en el centro,DET,NN,ADJ,V,DET,NN
+La lluvia fuerte moja todo a su paso,DET,NN,ADJ,V,DET,NN,PREP,DET,NN
+El televisor moderno tiene una gran pantalla,DET,NN,ADJ,V,ADJ,NN
+La montaña alta se ve majestuosa,DET,NN,ADJ,V,ADJ
+El sombrero negro es muy elegante,DET,NN,ADJ,V,ADV,ADJ
+La maleta pesada es difícil de llevar,DET,NN,ADJ,V,ADJ,PREP,NN
+El pollo crujiente es mi plato favorito,DET,NN,ADJ,V,ADJ,DET,NN
+La puerta cerrada no permite el paso,DET,NN,ADJ,V,ADJ,DET,NN
+El paraguas roto no me sirve,DET,NN,ADJ,V,ADJ,DET,NN
+La moto potente acelera rápidamente,DET,NN,ADJ,V,ADJ,ADV
+El cuaderno nuevo está en la mochila,DET,NN,ADJ,V,PREP,DET,NN
+La ventana abierta permite la entrada de aire fresco,DET,NN,ADJ,V,ADJ,DET,NN,PREP,NN,ADJ
+El barco grande navega por el océano,DET,NN,ADJ,V,PREP,DET,NN
+La mesa redonda está en el comedor,DET,NN,ADJ,V,PREP,DET,NN
+El cajón cerrado no se puede abrir,DET,NN,ADJ,V,ADJ,NEG,PRON,VERB
+La ciudad grande es muy ruidosa,DET,NN,ADJ,V,ADV,ADJ
+La casa azul está en la esquina,DET,NN,ADJ,V,PREP,DET,NN
+El auto rojo corre por la carretera,DET,NN,ADJ,V,PREP,DET,NN
+La nube blanca flota en el cielo,DET,NN,ADJ,V,PREP,DET,NN
+El sol brillante calienta la playa,DET,NN,ADJ,V,DET,NN
+La luna llena ilumina la noche,DET,NN,ADJ,V,DET,NN
+La montaña alta se eleva sobre el valle,DET,NN,ADJ,V,PREP,DET,NN
+El río caudaloso fluye hacia el mar,DET,NN,ADJ,V,PREP,DET,NN
+El edificio antiguo está en el centro de la ciudad,DET,NN,ADJ,V,PREP,DET,NN
+El viento fuerte mueve los árboles,DET,NN,ADJ,V,DET,NN
+La playa desierta está bañada por el sol,DET,NN,ADJ,V,PREP,DET,NN
+La piedra redonda rueda por la colina,DET,NN,ADJ,V,PREP,DET,NN
+La botella vacía está en la mesa,DET,NN,ADJ,V,PREP,DET,NN
+El niño feliz corre en el parque,DET,NN,ADJ,V,PREP,DET,NN
+La puerta cerrada impide la entrada,DET,NN,ADJ,V,DET,NN
+El lago tranquilo refleja las montañas,DET,NN,ADJ,V,PREP,DET,NN
+El avión grande vuela hacia el sur,DET,NN,ADJ,V,PREP,DET,NN
+El zapato roto no se puede usar,DET,NN,ADJ,V,ADV,PRON,VERB
+El pez dorado nada en el acuario,DET,NN,ADJ,V,PREP,DET,NN
+El ruido fuerte asusta al gato,DET,NN,ADJ,V,VERB,DET,NN
+La ventana abierta deja entrar la luz,DET,NN,ADJ,V,ADJ,VERB,DET,NN
+El águila majestuosa vuela alto en el cielo,DET,NN,ADJ,V,ADV,PREP,DET,NN
+El vestido rojo es muy elegante,DET,NN,ADJ,V,ADJ
+La bicicleta vieja necesita reparación,DET,NN,ADJ,VERB,SUST
+El perro callejero busca comida en la basura,DET,NN,ADJ,VERB,SUST,PREP,DET,NN
+La ciudad moderna está llena de luces,DET,NN,ADJ,V,ADJ,PREP,DET,NN
+La casa antigua tiene techos altos,DET,NN,ADJ,V,SUST,ADJ
