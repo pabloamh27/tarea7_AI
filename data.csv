@@ -1,0 +1,25 @@
+el perro corre alegremente,DET,NN,V,ADV
+juan lee un libro en el parque,NN,V,DET,NN,PREP,DET,NN
+los niños juegan en el jardín,DET,NN,V,PREP,DET,NN
+maría canta en la ducha,NN,V,PREP,DET,NN
+la casa está en la colina,DET,NN,V,PREP,DET,NN
+el coche rojo está en la calle,DET,NN,ADJ,V,PREP,DET,NN
+pedro come una manzana,NN,V,DET,NN
+el gato duerme en la cama,DET,NN,V,PREP,DET,NN
+ana toca el piano en la sala,NN,V,DET,NN,PREP,DET,NN
+el sol brilla en el cielo,DET,NN,V,PREP,DET,NN
+los pájaros cantan en el árbol,DET,NN,V,PREP,DET,NN
+marcos lee un periódico en la cafetería,NN,V,DET,NN,PREP,DET,NN
+el niño llora en la calle,DET,NN,V,PREP,DET,NN
+la casa blanca está en la esquina,DET,NN,ADJ,V,PREP,DET,NN
+luis juega al fútbol en el parque,NN,V,PREP,DET,NN,PREP,DET,NN
+la chica corre por el parque,DET,NN,V,PREP,DET,NN
+el perro ladra al gato en la calle,DET,NN,V,PREP,DET,NN,PREP,DET,NN
+los padres cuidan al bebé en la casa,DET,NN,V,PREP,DET,NN,PREP,DET,NN
+juan y carlos juegan al ajedrez en el parque,NN,CONJ,NN,V,PREP,DET,NN,PREP,DET,NN
+el profesor enseña en la universidad,DET,NN,V,PREP,DET,NN
+el pájaro vuela en el cielo azul,DET,NN,V,PREP,DET,NN,ADJ
+el café está caliente y sabe bien,DET,NN,V,ADJ,CONJ,V
+el hombre camina por la calle con su perro,DET,NN,V,PREP,DET,NN,PREP,DET,NN
+maría y pedro toman café en el café de la esquina,NN,CONJ,NN,V,DET,NN,PREP,DET,NN,PREP,DET,NN
+los estudiantes estudian en la biblioteca de la universidad,DET,NN,V,PREP,DET,NN,PREP,DET,NN,PREP,DET,NN
