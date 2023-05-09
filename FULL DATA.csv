@@ -2,7 +2,63 @@ El gato negro corre en el jardin,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La mesa grande esta en la cocina,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -10,7 +66,63 @@ El perro marron ladra en el parque,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La silla comoda esta junto a la ventana,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -18,11 +130,95 @@ El libro interesante esta en la biblioteca,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La ninia pequenia juega en el patio,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El arbol alto se encuentra en el jardin,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -30,7 +226,63 @@ La pelota roja rueda en el suelo,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El hombre mayor camina por la calle,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -38,7 +290,63 @@ La mujer guapa esta en el parque,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El ninio feliz juega en la playa,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -46,7 +354,63 @@ La puerta verde esta abierta,DET,NN,ADJ,V,ADJ
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El coche rapido pasa por la carretera,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -54,7 +418,63 @@ La casa antigua esta en ruinas,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El sol brilla en el cielo,DET,NN,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -62,7 +482,63 @@ La luna llena ilumina la noche,DET,NN,ADJ,V,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El rio caudaloso fluye hacia el mar,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -70,7 +546,63 @@ La montania alta esta cubierta de nieve,DET,NN,ADJ,V,PREP,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El ave libre vuela por el cielo,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -78,7 +610,63 @@ La flor hermosa esta en el jardin,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El elefante grande camina lentamente,DET,NN,ADJ,V,ADV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -86,7 +674,63 @@ La abeja pequenia zumba alrededor de las flores,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El ruido fuerte asusta a los pajaros,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -94,7 +738,63 @@ La musica suave se escucha en la habitacion,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El rio tranquilo fluye sin prisa,DET,NN,ADJ,V,ADV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -102,7 +802,63 @@ La estrella brillante brilla en el cielo oscuro,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El viento fresco sopla entre los arboles,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -110,7 +866,63 @@ La luz brillante ilumina la habitacion,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El ninio travieso juega en el parque,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -118,7 +930,63 @@ La ninia curiosa explora el bosque,DET,NN,ADJ,V,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El agua clara fluye por el rio,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -126,7 +994,63 @@ La sombra oscura se proyecta en la pared,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El sol radiante brilla en el horizonte,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -134,7 +1058,63 @@ La brisa suave acaricia mi rostro,DET,NN,ADJ,V,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El pajaro colorido canta en la rama,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -142,7 +1122,63 @@ La montania imponente se alza en el paisaje,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El ruido molesto interrumpe mi concentracion,DET,NN,ADJ,V,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -150,7 +1186,63 @@ La ciudad bulliciosa esta llena de vida,DET,NN,ADJ,V,PREP,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El perfume dulce inunda la habitacion,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -158,7 +1250,63 @@ La carretera larga se extiende hasta el horizonte,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El edificio moderno destaca en el centro de la ciudad,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -166,7 +1314,63 @@ La pintura abstracta adorna la pared blanca,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El reloj antiguo marca la hora exacta,DET,NN,ADJ,V,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -174,7 +1378,63 @@ La lampara encendida ilumina la habitacion,DET,NN,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El vaso vacio esta sobre la mesa,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -182,7 +1442,63 @@ La toalla mojada cuelga en el banio,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El maestro sabio ensenia a sus alumnos,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -190,7 +1506,63 @@ La pelicula emocionante atrapa mi atencion,DET,NN,ADJ,V,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El silencio absoluto reina en la noche,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -198,7 +1570,63 @@ La tormenta violenta se acerca rapidamente,DET,NN,ADJ,V,PREP,ADV
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El libro interesante atrapa mi imaginacion,DET,NN,ADJ,V,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -206,7 +1634,63 @@ La lluvia fina cae sobre el suelo,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El calor intenso agobia a la gente,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -214,7 +1698,63 @@ La sonrisa sincera ilumina su rostro,DET,NN,ADJ,V,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El aire fresco revitaliza mis pulmones,DET,NN,ADJ,V,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -222,7 +1762,63 @@ La comida deliciosa despierta mis sentidos,DET,NN,ADJ,V,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El ninio inquieto corre por el parque,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -230,7 +1826,63 @@ La ninia creativa dibuja en su cuaderno,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El ruido estruendoso asusta a los animales,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -238,7 +1890,63 @@ La musica alegre anima la fiesta,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El sol radiante calienta la arena,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -246,7 +1954,63 @@ La Luna brillante ilumina el camino,DET,NN,ADJ,V,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El viento suave acaricia las hojas,DET,NN,ADJ,V,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -254,7 +2018,63 @@ La sombra alargada se proyecta en el suelo,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El agua cristalina refresca mi sed,DET,NN,ADJ,V,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -262,7 +2082,63 @@ La montania majestuosa se eleva en el horizonte,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El ruido constante interrumpe mi concentracion,DET,NN,ADJ,V,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -270,7 +2146,63 @@ La ciudad bulliciosa nunca duerme,DET,NN,ADJ,V,ADV
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El perfume fragante impregna el aire,DET,NN,ADJ,V,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -278,7 +2210,63 @@ La carretera sinuosa atraviesa el bosque,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El edificio imponente domina el paisaje urbano,DET,NN,ADJ,V,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -286,7 +2274,63 @@ La pintura expresiva evoca emociones,DET,NN,ADJ,V,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El reloj antiguo marca el paso del tiempo,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -294,7 +2338,63 @@ La lampara apagada oscurece la habitacion,DET,NN,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El vaso lleno esta sobre la mesa,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -302,7 +2402,63 @@ La toalla suave seca mi cuerpo,DET,NN,ADJ,V,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El maestro paciente guia a sus estudiantes,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -310,7 +2466,63 @@ La pelicula emocionante provoca suspenso,DET,NN,ADJ,V,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El silencio absoluto envuelve el lugar,DET,NN,ADJ,V,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -318,7 +2530,63 @@ La tormenta violenta causa estragos,DET,NN,ADJ,V,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El perro corre rapido en el parque,DET,NN,V,ADV,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -326,7 +2594,63 @@ La casa grande esta en la colina,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El gato negro duerme en el sofa,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -334,7 +2658,63 @@ La silla comoda esta al lado de la puerta,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El libro interesante esta en la mesa,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -342,7 +2722,63 @@ La ninia feliz juega en el parque,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El arbol alto se encuentra en el jardin,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -350,11 +2786,95 @@ La pelota roja rueda en el pasto,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El perro marron ladra fuerte en el parque,DET,NN,ADJ,V,ADV,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La casa blanca esta en la colina,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -362,7 +2882,63 @@ El gato blanco duerme en la cama,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La silla dura esta al lado de la ventana,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -370,7 +2946,63 @@ El libro aburrido esta en el estante,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La ninia pequenia juega en el jardin,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -378,7 +3010,63 @@ El arbol viejo se encuentra en el bosque,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La pelota amarilla rueda en el suelo,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -386,7 +3074,63 @@ El perro blanco corre en el parque,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La casa moderna esta en la colina,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -394,7 +3138,63 @@ El gato naranja duerme en la silla,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La silla suave esta al lado del sofa,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -402,7 +3202,63 @@ El libro viejo esta en la biblioteca,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La ninia pequenia juega en el parque infantil,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -410,7 +3266,63 @@ El arbol verde se encuentra en el parque,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La pelota azul rueda en el parque,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -418,7 +3330,63 @@ El perro marron corre en el parque,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La casa antigua esta en la colina,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -426,7 +3394,63 @@ El gato gris duerme en el techo,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La casa blanca esta en la colina,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -434,7 +3458,63 @@ El carro rapido corre por la carretera,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El ninio feliz juega en el parque,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -442,7 +3522,63 @@ La nube gris cubre el cielo,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La guitarra acustica suena muy bien,DET,NN,ADJ,V,ADV,ADJ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -450,7 +3586,63 @@ El bebe hermoso duerme en la cuna,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El reloj antiguo esta en la mesa,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -458,7 +3650,63 @@ La bicicleta nueva es muy rapida,DET,NN,ADJ,V,ADV,ADJ
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El sol brillante ilumina el dia,DET,NN,ADJ,V,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -466,7 +3714,63 @@ La luna llena se ve muy bonita,DET,NN,ADJ,V,ADV,ADJ
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El abuelo sabio cuenta historias,DET,NN,ADJ,V,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -474,7 +3778,63 @@ La taza vacia esta en la mesa,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El zapato comodo es ideal para caminar,DET,NN,ADJ,V,ADJ,PREP,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -482,7 +3842,63 @@ La computadora nueva es muy rapida,DET,NN,ADJ,V,ADV,ADJ
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El edificio alto se encuentra en el centro,DET,NN,ADJ,V,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -490,7 +3906,63 @@ La lluvia fuerte moja todo a su paso,DET,NN,ADJ,V,DET,NN,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El televisor moderno tiene una gran pantalla,DET,NN,ADJ,V,ADJ,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -498,7 +3970,63 @@ La montania alta se ve majestuosa,DET,NN,ADJ,V,ADJ
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El sombrero negro es muy elegante,DET,NN,ADJ,V,ADV,ADJ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -506,7 +4034,63 @@ La maleta pesada es dificil de llevar,DET,NN,ADJ,V,ADJ,PREP,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El pollo crujiente es mi plato favorito,DET,NN,ADJ,V,ADJ,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -514,7 +4098,63 @@ La puerta cerrada no permite el paso,DET,NN,ADJ,V,ADJ,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El paraguas roto no me sirve,DET,NN,ADJ,V,ADJ,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -522,7 +4162,63 @@ La moto potente acelera rapidamente,DET,NN,ADJ,V,ADJ,ADV
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El cuaderno nuevo esta en la mochila,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -530,7 +4226,63 @@ La ventana abierta permite la entrada de aire fresco,DET,NN,ADJ,V,ADJ,DET,NN,PRE
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El barco grande navega por el oceano,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -538,7 +4290,63 @@ La mesa redonda esta en el comedor,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El cajon cerrado no se puede abrir,DET,NN,ADJ,V,ADJ,NEG,PRON,VERB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -546,7 +4354,63 @@ La ciudad grande es muy ruidosa,DET,NN,ADJ,V,ADV,ADJ
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La casa azul esta en la esquina,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -554,7 +4418,63 @@ El auto rojo corre por la carretera,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La nube blanca flota en el cielo,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -562,7 +4482,63 @@ El sol brillante calienta la playa,DET,NN,ADJ,V,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La luna llena ilumina la noche,DET,NN,ADJ,V,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -570,7 +4546,63 @@ La montania alta se eleva sobre el valle,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El rio caudaloso fluye hacia el mar,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -578,7 +4610,63 @@ El edificio antiguo esta en el centro de la ciudad,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El viento fuerte mueve los arboles,DET,NN,ADJ,V,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -586,7 +4674,63 @@ La playa desierta esta baniada por el sol,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La piedra redonda rueda por la colina,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -594,7 +4738,63 @@ La botella vacia esta en la mesa,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El ninio feliz corre en el parque,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -602,7 +4802,63 @@ La puerta cerrada impide la entrada,DET,NN,ADJ,V,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El lago tranquilo refleja las montanias,DET,NN,ADJ,V,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -610,7 +4866,63 @@ El avion grande vuela hacia el sur,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El zapato roto no se puede usar,DET,NN,ADJ,V,ADV,PRON,VERB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -618,7 +4930,63 @@ El pez dorado nada en el acuario,DET,NN,ADJ,V,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El ruido fuerte asusta al gato,DET,NN,ADJ,V,VERB,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -626,7 +4994,63 @@ La ventana abierta deja entrar la luz,DET,NN,ADJ,V,ADJ,VERB,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 El aguila majestuosa vuela alto en el cielo,DET,NN,ADJ,V,ADV,PREP,DET,NN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -634,7 +5058,63 @@ El vestido rojo es muy elegante,DET,NN,ADJ,V,ADJ
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La bicicleta vieja necesita reparacion,DET,NN,ADJ,VERB,SUST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -642,11 +5122,95 @@ El perro callejero busca comida en la basura,DET,NN,ADJ,VERB,SUST,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La ciudad moderna esta llena de luces,DET,NN,ADJ,V,ADJ,PREP,DET,NN
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 La casa antigua tiene techos altos,DET,NN,ADJ,V,SUST,ADJ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
